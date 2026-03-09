@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariuscucosmihai&label=Profile%20views&color=0e75b6&style=flat" alt="mariuscucosmihai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariuscucosmihai" alt="mariuscucosmihai" /></a> </p>
+[![trophy](https://gh-trophy.cdnsoft.net/?username=mariuscucosmihai&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Biblioteca c#](https://github.com/ITIS-Rossi/3cii-2526-biblioteca-csharp-MariusCucosMihai.git)
 
