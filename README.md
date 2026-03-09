@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariuscucosmihai&label=Profile%20views&color=0e75b6&style=flat" alt="mariuscucosmihai" /> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=MariusCucosMihai)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariuscucosmihai" alt="mariuscucosmihai" /></a> </p>
 
 - 🔭 I’m currently working on [Biblioteca c#](https://github.com/ITIS-Rossi/3cii-2526-biblioteca-csharp-MariusCucosMihai.git)
